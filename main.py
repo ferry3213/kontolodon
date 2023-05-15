@@ -63,7 +63,7 @@ print (colored('•••••••••••••••••••••�
 print (colored(f"Ξ Follow myGithub : https://github.com/yudhasaputra \nΞ START           : {x} \nΞ Your IP         : {ip} ", 'green', attrs=['bold']))
 print (colored('••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n', 'green', attrs=['bold']))
 print (colored('+===================== BOT START! ========================+', 'red', attrs=['bold']))
-print (colored('Write ON DISCORD: \n!levelup <number of messages> to Start Level UP', 'cyan', attrs=['bold']))
+print (colored('Write ON DISCORD: \n!lets go', 'cyan', attrs=['bold']))
 
 
 @client.command()
